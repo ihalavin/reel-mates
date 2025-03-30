@@ -1,4 +1,5 @@
-## Reel mates
+![Coverage total](./badges/coverage-total.svg)
+# Reel mates
 
 App that helps you choose a movie for movie night
 
